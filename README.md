@@ -1,6 +1,6 @@
 # PyDataNYC2019 - Introduction to Probability and Statistics
 
-**NOTE:** as of 10/27/2019 this Tutorial is *very* much a work in progress. Stayed tune as PyData NYC is Nov. 4-6, as that data approaches this content should be much closer to ready.
+**Update**: Watch the lecture here: https://youtu.be/uWZggtv85CU
 
 This project contains a whirlwind introduction to probability and statistics that will be part of a tutorial session at PyData NYC 2019. The tutorial consists of 3 notebooks that will walk you through the stages of stastical analysis.
 
